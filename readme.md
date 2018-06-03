@@ -1,3 +1,4 @@
 #MyApp
 My first Git to GitHub repo
-login
+login merge master1
+From master1
